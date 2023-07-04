@@ -22,7 +22,7 @@ My main language for scientific programming is Python, while my prefered Game en
 
 ### Where does the name of the blog comes from?
 
-A video by former polygon member Brian David Gilbert ([Link here, he's really funny](https://www.youtube.com/watch?v%253DPRBCykRNqf8)). I feel like this phrase encapsulates both my passion and my cynicism
+A video by former polygon member Brian David Gilbert ([Link here, he's really funny](https://www.youtube.com/watch?v=PRBCykRNqf8)). I feel like this phrase encapsulates both my passion and my cynicism
 
 ### What's your favorite game
 Persona 5 and the Megami Tensei Franchise in general. Special mention to Guilty Gear
