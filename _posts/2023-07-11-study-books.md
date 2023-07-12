@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Syllabus and Study Books"
 date: 2023-07-11
 ---
